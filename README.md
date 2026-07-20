@@ -20,7 +20,7 @@ All credits go to **jungcookgf** for the original Valentines-Day project.
 I only made small changes to adapt it for a birthday theme.
 
 ## 🔗 Demo
-👉 [Click here to view](https://layalilucia.github.io/Birthday-letter/)
+👉 [Click here to view](https://layalilucia.github.io/birthday-letter/)
 
 ---
 
